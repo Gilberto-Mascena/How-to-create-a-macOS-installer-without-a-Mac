@@ -1,3 +1,5 @@
+[English](https://github.com/Gilberto-Mascena/How-to-create-a-macOS-installer-without-a-Mac/blob/main/README.md) | [Português BR](https://github.com/Gilberto-Mascena/How-to-create-a-macOS-installer-without-a-Mac/blob/main/README-pt_br.md)
+
 # _How to create a genuine macOS installer without access to a Mac?_
 
 <div align="center">
