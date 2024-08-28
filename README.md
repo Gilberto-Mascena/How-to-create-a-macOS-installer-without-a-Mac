@@ -58,6 +58,9 @@ python3 --version
 ```
 - _If it returns something like `python 3.x.x`, the python is already installed, we can go to step 1_
 
+<div>
+    <img src="./assets/linux/python-version.png">
+
 - _Otherwise, for **Debian** and derivatives, in the terminal run the command below_
 
 ```
@@ -82,9 +85,63 @@ python3 --version
 
 - _If it returns something like `python 3.x.x`, the python is already installed, we can go to step 1_
 
+<div>
+    <img src="./assets/linux/python-version.png">
+
 ## _Step 1_
 
 ### _On Windows_
 
 ### _On Linux_
 
+1. [_Download macrecovery_]()
+2. _Format the USB flash drive in FAT32_
+3. _Open the previously downloaded macrecovery folder_
+
+<div>
+    <img src="./assets/linux/content-macrecovery.png">
+</div>
+
+4. _Open the recovery_urls.txt file_
+
+
+<div>
+    <img src="./assets/linux/URLs.png">
+</div>
+
+4. _As highlighted in the title above, the section in red downloads the macOS Ventura recovery and just copies it. The same goes for other versions._
+
+5. _Open a terminal in the macrecovery folder and type `python3`, press space and paste the copied url. Press Enter and wait_
+
+<div>
+    <img src="./assets/linux/download-recovery.png">
+</div>
+
+6. _This screen shows the download completed successfully._
+
+<div>
+    <img src="./assets/linux/download-complete.png">
+</div>
+
+7. _Go back to the macrecovery folder and notice that we now have the `com.apple.recovery.boot` folder. Copy the folder to the previously formatted pendrive_
+
+<div>
+    <img src="./assets/linux/folder-recovery.png">
+</div>
+
+8. _Now copy your EFI to the pendrive as well_
+    - _The folder and file structure should look like the screens below_
+
+<div>
+    <img src="./assets/linux/folders-on-the-pendrive.png">
+    <img src="./assets/linux/files-recovery.png">
+    <img src="./assets/linux/OC-folders.png">
+    <img src="./assets/linux/EFI-folders.png">
+</div>
+
+9. 🎉 _Finally we have a pendrive ready to install the macOS chosen in recovery_urls.txt_
+
+> [!WARNING]
+> Make sure your EFI is configured correctly to allow internet access. This is a requirement, as the recovery will download macOS in real time from Apple's servers.
+
+## _Step 2_
