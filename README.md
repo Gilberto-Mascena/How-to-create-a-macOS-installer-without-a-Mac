@@ -109,27 +109,27 @@ python3 --version
     <img src="./assets/linux/URLs.png">
 </div>
 
-4. _As highlighted in the title above, the section in red downloads the macOS Ventura recovery and just copies it. The same goes for other versions._
+5. _As highlighted in the title above, the section in red downloads the macOS Ventura recovery and just copies it. The same goes for other versions._
 
-5. _Open a terminal in the macrecovery folder and type `python3`, press space and paste the copied url. Press Enter and wait_
+6. _Open a terminal in the macrecovery folder and type `python3`, press space and paste the copied url. Press Enter and wait_
 
 <div>
     <img src="./assets/linux/download-recovery.png">
 </div>
 
-6. _This screen shows the download completed successfully._
+7. _This screen shows the download completed successfully._
 
 <div>
     <img src="./assets/linux/download-complete.png">
 </div>
 
-7. _Go back to the macrecovery folder and notice that we now have the `com.apple.recovery.boot` folder. Copy the folder to the previously formatted pendrive_
+8. _Go back to the macrecovery folder and notice that we now have the `com.apple.recovery.boot` folder. Copy the folder to the previously formatted pendrive_
 
 <div>
     <img src="./assets/linux/folder-recovery.png">
 </div>
 
-8. _Now copy your EFI to the pendrive as well_
+9. _Now copy your EFI to the pendrive as well_
     - _The folder and file structure should look like the screens below_
 
 <div>
@@ -139,7 +139,7 @@ python3 --version
     <img src="./assets/linux/EFI-folders.png">
 </div>
 
-9. 🎉 _Finally we have a pendrive ready to install the macOS chosen in recovery_urls.txt_
+10. 🎉 _Finally we have a pendrive ready to install the macOS chosen in recovery_urls.txt_
 
 > [!WARNING]
 > Make sure your EFI is configured correctly to allow internet access. This is a requirement, as the recovery will download macOS in real time from Apple's servers.
