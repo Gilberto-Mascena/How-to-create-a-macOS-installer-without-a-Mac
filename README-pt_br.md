@@ -19,7 +19,7 @@
 - _**Windows** ou **Linux**_
 - _[Python 3](https://www.python.org/downloads/) instalado na máquina_
 
-## _Instalado Python_
+## _Instalando Python_
 
 #### _No Windows_
 - _Ao instalar no **Windows** marque a opcão `Add Python to PATH`_
