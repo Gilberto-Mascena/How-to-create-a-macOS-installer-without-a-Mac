@@ -20,9 +20,9 @@
 - _**Windows** or **Linux**_
 - _[Python 3](https://www.python.org/downloads/) installed on the machine_
 
-##
+## _Installing Python_
 
-#### _On Windiwns_
+#### _On Windows_
 
 - _when installing on **Windows** check `Add Python to PATH`_
 
@@ -83,3 +83,8 @@ python3 --version
 - _If it returns something like `python 3.x.x`, the python is already installed, we can go to step 1_
 
 ## _Step 1_
+
+### _On Windows_
+
+### _On Linux_
+
