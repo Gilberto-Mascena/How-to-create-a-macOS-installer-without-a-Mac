@@ -160,9 +160,6 @@ python3 --version
 
 10. 🎉 _Finally we have a pendrive ready to install the macOS chosen in `recovery_urls.txt`_
 
-## _Step 2_
-
-
 
 ### _On Linux_
 
