@@ -101,9 +101,23 @@ python3 --version
     <img src="./assets/linux/python-version.png">
 </div>
 
+<a name="anchor"></a>
+
+## _Topic navigation_
+- [_Step 1_](#anchor1)
+- [_On Windows_](#anchor2)
+- [_On Linux_](#anchor3)
+- [_Step 2_](#anchor4)
+- [_Step 3_](#anchor5)
+- [_Step4_](#anchor6)
+- [*Thanks*](#anchor7)
+- [*License* ](#anchor8)
+
 ## _Step 1_
 
-### _On Windows_
+<a id="anchor1"></a>
+
+<details><summary><h3>On Windows</h3></summary>
 
 1. [_Download macrecovery_]()
 2. _Format the USB flash drive in FAT32_
@@ -160,8 +174,12 @@ python3 --version
 
 10. 🎉 _Finally we have a pendrive ready to install the macOS chosen in `recovery_urls.txt`_
 
+[Top](#anchor)
+</details>
 
-### _On Linux_
+<a id="anchor1"></a>
+
+<details><summary><h3>On Linux</h3></summary>
 
 1. [_Download macrecovery_]()
 2. _Format the USB flash drive in FAT32_
@@ -218,5 +236,9 @@ python3 --version
 </div>
 
 10. 🎉 _Finally we have a pendrive ready to install the macOS chosen in `recovery_urls.txt`_
+
+[Top](#anchor)
+</details>
+
 
 ## _Step 2_
