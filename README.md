@@ -45,6 +45,11 @@
 python --version
 ```
 - _If it returns something like `python 3.x.x`, the installation was successful and we can go to step 1_
+
+<div>
+    <img src="./assets/windows/python-version-win.png">
+</div>
+
 ----
 
 #### _On Linux_
@@ -66,6 +71,7 @@ python3 --version
 
 <div>
     <img src="./assets/linux/python-version.png">
+</div>
 
 - _Otherwise, for **Debian** and derivatives, in the terminal run the command below_
 
@@ -93,10 +99,70 @@ python3 --version
 
 <div>
     <img src="./assets/linux/python-version.png">
+</div>
 
 ## _Step 1_
 
 ### _On Windows_
+
+1. [_Download macrecovery_]()
+2. _Format the USB flash drive in FAT32_
+3. _Open the previously downloaded macrecovery folder_
+
+<div>
+    <img src="assets/windows/content-recovery-win.png">
+</div>
+
+4. _Open the `recovery_urls.txt` file_
+
+<div>
+    <img src="./assets/windows/URLs-win.png">
+</div>
+
+5. _As highlighted in the title above, the section in red downloads the macOS Ventura recovery and just copies it. The same goes for other versions._
+
+6. _Open a terminal in the macrecovery folder and type `python3`, press space and paste the copied url. Press Enter and wait_
+
+<div>
+    <img src="./assets/windows/download macos-win.png">
+</div>
+
+7. _This screen shows the download completed successfully._
+
+<div>
+    <img src="./assets/windows/download complete-win.png">
+</div>
+
+8. _Go back to the macrecovery folder and notice that we now have the `com.apple.recovery.boot` folder. Copy the folder to the previously formatted pendrive_
+
+<div>
+    <img src="./assets/windows/folder-recovery-win.png">
+</div>
+
+9. _Now copy your `EFI` to the pendrive as well_
+    - _The folder and file structure should look like the screens below_
+
+<div>
+    <img src="./assets/windows/folders-on-the-pen-win.png">
+
+- _Files that make up the `com.apple.recovery.boot` folder_
+
+    <img src="./assets/windows/files-recovery-win.png">
+
+- _Files that make up the `EFI` folder_
+
+    <img src="./assets/windows/oc-folders-win.png">
+
+- _Files that make up the `oc` folder_
+
+    <img src="./assets/windows/EFI-folders-win.png">
+</div>
+
+10. 🎉 _Finally we have a pendrive ready to install the macOS chosen in `recovery_urls.txt`_
+
+## _Step 2_
+
+
 
 ### _On Linux_
 
