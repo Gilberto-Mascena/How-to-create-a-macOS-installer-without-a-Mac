@@ -241,3 +241,20 @@ python3 --version
 
 ## _Step 2_
 
+<details><summary><h3>Reset BIOS to factory settings</h3></summary>
+
+> [!WARNING]
+> _Consult the manufacturer's manual_
+
+<div>
+    <img src="./assets/miscellany/restore-bios-default.png">
+</div>
+
+1. _Save and exit_
+
+2. _To configure the BIOS for macOS installation, see: [Intel BIOS settings](https://dortania.github.io/OpenCore-Install-Guide/config.plist/comet-lake.html#intel-bios-settings)_
+
+3. _Save and exit_
+
+[Top](#anchor)
+</details>
