@@ -105,13 +105,11 @@ python3 --version
 
 ## _Topic navigation_
 - [_Step 1_](#anchor1)
-- [_On Windows_](#anchor2)
-- [_On Linux_](#anchor3)
-- [_Step 2_](#anchor4)
-- [_Step 3_](#anchor5)
-- [_Step4_](#anchor6)
-- [*Thanks*](#anchor7)
-- [*License* ](#anchor8)
+- [_Step 2_](#anchor2)
+- [_Step 3_](#anchor3)
+- [_Step4_](#anchor4)
+- [*Thanks*](#anchor5)
+- [*License* ](#anchor6)
 
 ## _Step 1_
 
@@ -177,7 +175,7 @@ python3 --version
 [Top](#anchor)
 </details>
 
-<a id="anchor1"></a>
+<a id="anchor2"></a>
 
 <details><summary><h3>On Linux</h3></summary>
 
@@ -242,3 +240,4 @@ python3 --version
 
 
 ## _Step 2_
+
