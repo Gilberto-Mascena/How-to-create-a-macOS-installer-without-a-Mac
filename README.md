@@ -9,7 +9,7 @@
 ### _Well, this is relatively easy, thanks to the good work of the [Acidanthera team](https://github.com/acidanthera/OpenCorePkg) with macrecovery_
 
 
-> [[!WARNING]]
+> [!WARNING]
 > _Avoid images distributed on the internet_
 > _This process will not use a full macOS image, but rather a recovery image. It will download everything from Apple's servers that will be used to install macOS on your PC/Notebook._ 
 
@@ -18,7 +18,7 @@
 
 - _EFI compatible with your hardware_
 
-> [[!WARNING]]
+> [!WARNING]
 > _Make sure your EFI is configured correctly to allow internet access this is a requirement, as the recovery will download macOS in real time from Apple's servers_
 
 - _Obviously, internet access_
