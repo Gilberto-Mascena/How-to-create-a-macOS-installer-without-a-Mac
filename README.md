@@ -3,7 +3,7 @@
 # _How to create a genuine macOS installer without access to a Mac?_
 
 <div align="center">
-    <img src="./assets/macOS-recovery.png" width="150">
+    <img src="./assets/miscellany/macOS-recovery.png" width="150">
 </div>
 
 ### _Well, this is relatively easy, thanks to the good work of the [Acidanthera team](https://github.com/acidanthera/OpenCorePkg) with macrecovery_
@@ -28,7 +28,7 @@
 
 
 <div align="center">
-    <img src="./assets/path-python.png" width="600">
+    <img src="./assets/miscellany/path-python.png   " width="600">
 </div>
 
 
