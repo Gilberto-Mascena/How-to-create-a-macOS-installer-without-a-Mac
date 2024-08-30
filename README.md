@@ -261,7 +261,8 @@ python3 --version
 [Top](#anchor)
 </details>
 
-<a id="ancora5"></a>
+<a id="anchor5"></a>
+
 ## *Thanks*
 
 - [*Acidanthera Team*](https://github.com/acidanthera)
@@ -271,13 +272,14 @@ python3 --version
 - [*Gabriel Luchina*](https://www.youtube.com/c/gabrielluchina)
 - *And others*
 
-[Top](#ancora)
+[Top](#anchor)
 
-<a id="ancora6"></a>
+<a id="anchor6"></a>
+
 ## *License* 
 
 *The* [*MIT License*](./LICENSE.md) (*MIT*)
 
 ### Gilberto | Dev _2024_ 
 
-[Top](#ancora)
+[Top](#anchor)
