@@ -260,3 +260,24 @@ python3 --version
 
 [Top](#anchor)
 </details>
+
+<a id="ancora5"></a>
+## *Thanks*
+
+- [*Acidanthera Team*](https://github.com/acidanthera)
+- [*CorpNewt*](https://github.com/corpnewt)
+- [*Dortania*](https://dortania.github.io/OpenCore-Install-Guide/config.plist/comet-lake.html#platforminfo)
+- [*Dicas do Mateus*](https://www.youtube.com/c/DicasdoMateus)
+- [*Gabriel Luchina*](https://www.youtube.com/c/gabrielluchina)
+- *And others*
+
+[Top](#ancora)
+
+<a id="ancora6"></a>
+## *License* 
+
+*The* [*MIT License*](./LICENSE.md) (*MIT*)
+
+### Gilberto | Dev _2024_ 
+
+[Top](#ancora)
