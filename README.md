@@ -141,7 +141,7 @@ python3 --version
 
 10. 🎉 _Finally we have a pendrive ready to install the macOS chosen in recovery_urls.txt_
 
-> [!WARNING]
-> Make sure your EFI is configured correctly to allow internet access. This is a requirement, as the recovery will download macOS in real time from Apple's servers.
-
 ## _Step 2_
+
+> [!NOTE]
+> Make sure your EFI is configured correctly to allow internet accessThis is a requirement, as the recovery will download macOS in real time from Apple's servers.
