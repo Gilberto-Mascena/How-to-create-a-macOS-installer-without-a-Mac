@@ -108,7 +108,7 @@ python3 --version
     <img src="./assets/linux/content-macrecovery.png">
 </div>
 
-4. _Open the recovery_urls.txt file_
+4. _Open the `recovery_urls.txt` file_
 
 
 <div>
@@ -135,16 +135,25 @@ python3 --version
     <img src="./assets/linux/folder-recovery.png">
 </div>
 
-9. _Now copy your EFI to the pendrive as well_
+9. _Now copy your `EFI` to the pendrive as well_
     - _The folder and file structure should look like the screens below_
 
 <div>
     <img src="./assets/linux/folders-on-the-pendrive.png">
+
+- _Files that make up the `com.apple.recovery.boot` folder_
+
     <img src="./assets/linux/files-recovery.png">
+
+- _Files that make up the `EFI` folder_
+
     <img src="./assets/linux/OC-folders.png">
+
+- _Files that make up the `oc` folder_
+
     <img src="./assets/linux/EFI-folders.png">
 </div>
 
-10. 🎉 _Finally we have a pendrive ready to install the macOS chosen in recovery_urls.txt_
+10. 🎉 _Finally we have a pendrive ready to install the macOS chosen in `recovery_urls.txt`_
 
 ## _Step 2_
