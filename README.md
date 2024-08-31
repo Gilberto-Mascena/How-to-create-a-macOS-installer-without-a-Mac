@@ -76,13 +76,13 @@ python3 --version
 - _Otherwise, for **Debian** and derivatives, in the terminal run the command below_
 
 ```
-sudo apt update && sudo apt upgrade
+sudo apt update && sudo apt upgrade -y
 ```
 
 - _Enter the user password to update the packages and update the system, once the process is complete, run the command below_
 
 ```
-sudo apt install python3
+sudo apt install python3 -y
 ```
 - _Enter the user password for installation, after completion close the terminal and open it again. Finally verify the installation by running the command below again_
 
