@@ -26,6 +26,8 @@
 - _**Windows** or **Linux**_
 - _[Python 3](https://www.python.org/downloads/) installed on the machine_
 
+## _Step 1_
+
 ## _Installing Python_
 
 #### _On Windows_
