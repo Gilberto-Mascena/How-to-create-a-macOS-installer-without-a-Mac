@@ -22,7 +22,7 @@
 > _Make sure your EFI is configured correctly to allow internet access this is a requirement, as the recovery will download macOS in real time from Apple's servers_
 
 - _Obviously, internet access_
-- _Download the [recovery]() folder_
+- _Download the [macrecovery]() folder_
 - _**Windows** or **Linux**_
 - _[Python 3](https://www.python.org/downloads/) installed on the machine_
 
