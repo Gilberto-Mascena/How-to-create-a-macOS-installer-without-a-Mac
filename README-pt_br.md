@@ -21,7 +21,7 @@
 > _Certifique-se de que seu EFI esteja configurado corretamente para permitir acesso à Internet. Isso é um requisito, pois a recuperação baixará o macOS em tempo real dos servidores da Apple_
 
 - _Obviamente, acesso à internet_
-- _Baixe a pasta [macrecovery]()_
+- _Baixe a pasta [macrecovery](https://github.com/Gilberto-Mascena/How-to-create-a-macOS-installer-without-a-Mac/releases)_
 - _**Windows** ou **Linux**_
 - _[Python 3](https://www.python.org/downloads/) instalado na máquina_
 
@@ -111,7 +111,7 @@ python3 --version
 
 #### _No Windows_
 
-1. [_Baixar o macrecovery_]()
+1. [_Baixar o macrecovery_](https://github.com/Gilberto-Mascena/How-to-create-a-macOS-installer-without-a-Mac/releases)
 2. _Formatar a unidade flash USB em FAT32_
 3. _Abrir a pasta macrecovery baixada anteriormente_
 
@@ -170,7 +170,7 @@ python3 --version
 
 _No Linux_
 
-1. [_Baixar o macrecovery_]()
+1. [_Baixar o macrecovery_](https://github.com/Gilberto-Mascena/How-to-create-a-macOS-installer-without-a-Mac/releases)
 2. _Formatar a unidade flash USB em FAT32_
 3. _Abrir a pasta macrecovery baixada anteriormente_
 
