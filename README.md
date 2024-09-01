@@ -56,8 +56,8 @@ python --version
 
 - _On **Linux**, Ubuntu for example, usually comes with Python installed, so check first if you have it installed._  
 
-- _Checking the installation:_
-    - _On **Linux** open a terminal and run the command below_
+    - _Checking the installation:_
+        - _On **Linux** open a terminal and run the command below_
 
 ```
 python --version
@@ -101,21 +101,11 @@ python3 --version
     <img src="./assets/linux/python-version.png">
 </div>
 
-<a name="anchor"></a>
+## _Step 2_
 
-## _Topic navigation_
-- [_Step 1_](#anchor1)
-- [_Step 2_](#anchor2)
-- [_Step 3_](#anchor3)
-- [_Step4_](#anchor4)
-- [*Thanks*](#anchor5)
-- [*License* ](#anchor6)
+### _Creating installer_
 
-## _Step 1_
-
-<a id="anchor1"></a>
-
-<details><summary><h3>On Windows</h3></summary>
+#### _On Windows_
 
 1. [_Download macrecovery_]()
 2. _Format the USB flash drive in FAT32_
@@ -172,12 +162,9 @@ python3 --version
 
 10. 🎉 _Finally we have a pendrive ready to install the macOS chosen in `recovery_urls.txt`_
 
-[Top](#anchor)
-</details>
+---
 
-<a id="anchor2"></a>
-
-<details><summary><h3>On Linux</h3></summary>
+_On Linux_
 
 1. [_Download macrecovery_]()
 2. _Format the USB flash drive in FAT32_
@@ -235,34 +222,6 @@ python3 --version
 
 10. 🎉 _Finally we have a pendrive ready to install the macOS chosen in `recovery_urls.txt`_
 
-[Top](#anchor)
-</details>
-
-
-## _Step 2_
-
-<details><summary><h3>Reset BIOS to factory settings</h3></summary>
-
-1. _access the BIOS_
-
-- _This is an example_
-  - _Consult the manufacturer's manual_ 
-
-<div>
-    <img src="./assets/miscellany/restore-bios-default.png">
-</div>
-
-2. _Save and exit_
-
-3. _To configure the BIOS for macOS installation, see: [Intel BIOS settings](https://dortania.github.io/OpenCore-Install-Guide/config.plist/comet-lake.html#intel-bios-settings)_
-
-4. _Save and exit_
-
-[Top](#anchor)
-</details>
-
-<a id="anchor5"></a>
-
 ## *Thanks*
 
 - [*Acidanthera Team*](https://github.com/acidanthera)
@@ -272,14 +231,8 @@ python3 --version
 - [*Gabriel Luchina*](https://www.youtube.com/c/gabrielluchina)
 - *And others*
 
-[Top](#anchor)
-
-<a id="anchor6"></a>
-
 ## *License* 
 
 *The* [*MIT License*](./LICENSE.md) (*MIT*)
 
 ### Gilberto | Dev _2024_ 
-
-[Top](#anchor)
