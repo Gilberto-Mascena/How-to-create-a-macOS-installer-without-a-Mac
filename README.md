@@ -22,7 +22,7 @@
 > _Make sure your EFI is configured correctly to allow internet access this is a requirement, as the recovery will download macOS in real time from Apple's servers_
 
 - _Obviously, internet access_
-- _Download the [macrecovery]() folder_
+- _Download the [macrecovery](https://github.com/Gilberto-Mascena/How-to-create-a-macOS-installer-without-a-Mac/releases) folder_
 - _**Windows** or **Linux**_
 - _[Python 3](https://www.python.org/downloads/) installed on the machine_
 
@@ -107,7 +107,7 @@ python3 --version
 
 #### _On Windows_
 
-1. [_Download macrecovery_]()
+1. [_Download macrecovery_](https://github.com/Gilberto-Mascena/How-to-create-a-macOS-installer-without-a-Mac/releases)
 2. _Format the USB flash drive in FAT32_
 3. _Open the previously downloaded macrecovery folder_
 
@@ -166,7 +166,7 @@ python3 --version
 
 _On Linux_
 
-1. [_Download macrecovery_]()
+1. [_Download macrecovery_](https://github.com/Gilberto-Mascena/How-to-create-a-macOS-installer-without-a-Mac/releases)
 2. _Format the USB flash drive in FAT32_
 3. _Open the previously downloaded macrecovery folder_
 
