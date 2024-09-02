@@ -25,11 +25,26 @@
 - _**Windows** ou **Linux**_
 - _[Python 3](https://www.python.org/downloads/) instalado na máquina_
 
+<a name="ancora"></a>
+
+## _Navegação por tópicos_
+
+- _**Passo 1**_
+- [_No Windows_](#ancora1)
+- [_No Linux_](#ancora2)
+- _**Passo 2**_
+- [_No Windows_](#ancora3)
+- [_No Linux_](#ancora4)
+- [*Agradecimentos*](#ancora5)
+- [*Licença* ](#ancora6)
+
 ## _Passo 1_
 
 ### _Instalando Python_
 
-#### _No Windows_
+<a id="ancora1"></a>
+
+<details><summary><h4>No Windows</h4></summary>
 
 - _Ao instalar no **Windows** marque a opcão `Add Python to PATH`_
 
@@ -49,9 +64,12 @@ python --version
     <img src="./assets/windows/python-version-win.png">
 </div>
 
-----
+[Top](#ancora)
+</details>
 
-#### _No Linux_
+<a id="ancora2"></a>
+
+<details><summary><h4>No Linux</h4></summary>
 
 - _No **Linux**, o Ubuntu por exemplo, geralmente vem com o Python instalado, então verifique primeiro se você o tem instalado_
 
@@ -105,11 +123,17 @@ python3 --version
     <img src="./assets/linux/python-version.png">
 </div>
 
+[Top](#ancora)
+</details>
+
+
 ## _Passo 2_
 
 ### _Criando instalador_
 
-#### _No Windows_
+<a id="ancora3"></a>
+
+<details><summary><h4>No Windows</h4></summary>
 
 1. [_Baixar o macrecovery_](https://github.com/Gilberto-Mascena/How-to-create-a-macOS-installer-without-a-Mac/releases)
 2. _Formatar a unidade flash USB em FAT32_
@@ -148,27 +172,32 @@ python3 --version
 9. _Agora copie seu `EFI` para o pendrive também_ 
     - _A estrutura de pastas e arquivos deve ficar como nas telas abaixo_
 
-    <div>
-<img src="./assets/windows/folders-on-the-pen-win.png">
+<div>
+    <img src="./assets/windows/folders-on-the-pen-win.png">
 
 - _Arquivos que compõem a pasta `com.apple.recovery.boot`_
 
-<img src="./assets/windows/files-recovery-win.png">
+    <img src="./assets/windows/files-recovery-win.png">
 
 - _Arquivos que compõem a pasta `EFI`_
 
-<img src="./assets/windows/oc-folders-win.png">
+<   img src="./assets/windows/oc-folders-win.png">
 
 - _Arquivos que compõem a pasta `oc`_
 
-<img src="./assets/windows/EFI-folders-win.png">
+    <img src="./assets/windows/EFI-folders-win.png">
 </div>
 
 10. 🎉 _Finalmente temos um pendrive pronto para instalar o macOS escolhido em `recovery_urls.txt`_
 
----
 
-_No Linux_
+
+[Top](#ancora)
+</details>
+
+<a id="ancora4"></a>
+
+<details><summary><h4>No Linux</h4></summary>
 
 1. [_Baixar o macrecovery_](https://github.com/Gilberto-Mascena/How-to-create-a-macOS-installer-without-a-Mac/releases)
 2. _Formatar a unidade flash USB em FAT32_
@@ -225,6 +254,11 @@ _No Linux_
 
 10. 🎉 _Finalmente temos um pendrive pronto para instalar o macOS escolhido em `recovery_urls.txt`_
 
+[Top](#ancora)
+</details>
+
+<a id="ancora5"></a>
+
 ## _Agradecimentos_
 
 - [*Acidanthera Team*](https://github.com/acidanthera)
@@ -234,8 +268,16 @@ _No Linux_
 - [*Gabriel Luchina*](https://www.youtube.com/c/gabrielluchina)
 - *And others*
 
+[Top](#ancora)
+</details>
+
+<a id="ancora6"></a>
+
 ## _Licença_
 
 [_Licença MIT_](./LICENSE.md)(_MIT_)
 
 ### Gilberto | Dev _2024_
+
+[Top](#ancora)
+</details>
