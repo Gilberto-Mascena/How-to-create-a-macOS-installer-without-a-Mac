@@ -264,6 +264,7 @@ python3 --version
 - [*Dicas do Mateus*](https://www.youtube.com/c/DicasdoMateus)
 - [*Gabriel Luchina*](https://www.youtube.com/c/gabrielluchina)
 - *And others*
+
 [Top](#anchor)
 </details>
 
@@ -274,5 +275,6 @@ python3 --version
 *The* [*MIT License*](./LICENSE.md) (*MIT*)
 
 ### Gilberto | Dev _2024_ 
+
 [Top](#anchor)
 </details>
