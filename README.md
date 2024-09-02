@@ -35,7 +35,7 @@
 - [_On Linux_](#anchor2)
 - _**Step 2**_
 - [_On Windows_](#anchor3)
-- [_On inux_](#anchor4)
+- [_On Linux_](#anchor4)
 - [*Thanks*](#anchor5)
 - [*License* ](#anchor6)
 
@@ -62,7 +62,7 @@
 ```
 python --version
 ```
-- _If it returns something like `python 3.x.x`, the installation was successful and we can go to step 1_
+- _If it returns something like `python 3.x.x`, the installation was successful and we can go to step 2_
 
 <div>
     <img src="./assets/windows/python-version-win.png">
@@ -88,7 +88,7 @@ python --version
 ```
 python3 --version
 ```
-- _If it returns something like `python 3.x.x`, the python is already installed, we can go to step 1_
+- _If it returns something like `python 3.x.x`, the python is already installed, we can go to step 2_
 
 <div>
     <img src="./assets/linux/python-version.png">
@@ -116,7 +116,7 @@ python --version
 python3 --version
 ```
 
-- _If it returns something like `python 3.x.x`, the python is already installed, we can go to step 1_
+- _If it returns something like `python 3.x.x`, the python is already installed, we can go to step 2_
 
 <div>
     <img src="./assets/linux/python-version.png">
