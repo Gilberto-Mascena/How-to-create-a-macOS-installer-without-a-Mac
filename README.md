@@ -26,11 +26,27 @@
 - _**Windows** or **Linux**_
 - _[Python 3](https://www.python.org/downloads/) installed on the machine_
 
+<a name="anchor"></a>
+
+## _Topic navigation_
+
+- _**Step 1**_
+- [_On Windows_](#anchor1)
+- [_On Linux_](#anchor2)
+- _**Step 2**_
+- [_On Windows_](#anchor3)
+- [_On inux_](#anchor4)
+- [*Thanks*](#anchor5)
+- [*License* ](#anchor6)
+
+
 ## _Step 1_
 
-## _Installing Python_
+### _Installing Python_
 
-#### _On Windows_
+<a id="anchor1"></a>
+
+<details><summary><h4>On Windows</h4></summary>
 
 - _when installing on **Windows** check `Add Python to PATH`_
 
@@ -52,9 +68,12 @@ python --version
     <img src="./assets/windows/python-version-win.png">
 </div>
 
-----
+[Top](#anchor)
+</details>
 
-#### _On Linux_
+<a id="anchor2"></a>
+
+<details><summary><h4>On Linux</h4></summary>
 
 - _On **Linux**, Ubuntu for example, usually comes with Python installed, so check first if you have it installed._  
 
@@ -103,11 +122,16 @@ python3 --version
     <img src="./assets/linux/python-version.png">
 </div>
 
+[Top](#anchor)
+</details>
+
 ## _Step 2_
 
 ### _Creating installer_
 
-#### _On Windows_
+<a id="anchor3"></a>
+
+<details><summary><h4>On Windows</h4></summary>
 
 1. [_Download macrecovery_](https://github.com/Gilberto-Mascena/How-to-create-a-macOS-installer-without-a-Mac/releases)
 2. _Format the USB flash drive in FAT32_
@@ -164,9 +188,12 @@ python3 --version
 
 10. 🎉 _Finally we have a pendrive ready to install the macOS chosen in `recovery_urls.txt`_
 
----
+[Top](#anchor)
+</details>
 
-_On Linux_
+<a id="anchor4"></a>
+
+<details><summary><h4>On Linux</h4></summary>
 
 1. [_Download macrecovery_](https://github.com/Gilberto-Mascena/How-to-create-a-macOS-installer-without-a-Mac/releases)
 2. _Format the USB flash drive in FAT32_
@@ -224,6 +251,11 @@ _On Linux_
 
 10. 🎉 _Finally we have a pendrive ready to install the macOS chosen in `recovery_urls.txt`_
 
+[Top](#anchor)
+</details>
+
+<a id="anchor5"></a>
+
 ## *Thanks*
 
 - [*Acidanthera Team*](https://github.com/acidanthera)
@@ -232,9 +264,15 @@ _On Linux_
 - [*Dicas do Mateus*](https://www.youtube.com/c/DicasdoMateus)
 - [*Gabriel Luchina*](https://www.youtube.com/c/gabrielluchina)
 - *And others*
+[Top](#anchor)
+</details>
+
+<a id="anchor6"></a>
 
 ## *License* 
 
 *The* [*MIT License*](./LICENSE.md) (*MIT*)
 
 ### Gilberto | Dev _2024_ 
+[Top](#anchor)
+</details>
