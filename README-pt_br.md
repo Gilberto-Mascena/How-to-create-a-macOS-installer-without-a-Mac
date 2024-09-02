@@ -58,7 +58,7 @@
 ```
 python --version
 ```
-- _Se retornar algo como `python 3.x.x`, a instalação foi bem-sucedida e podemos ir para o passo 1_
+- _Se retornar algo como `python 3.x.x`, a instalação foi bem-sucedida e podemos ir para o passo 2_
 
 <div>
     <img src="./assets/windows/python-version-win.png">
@@ -117,7 +117,7 @@ python --version
 python3 --version
 ```
 
-- _Se retornar algo como `python 3.x.x`, o python já está instalado, podemos ir para o passo 1_
+- _Se retornar algo como `python 3.x.x`, o python já está instalado, podemos ir para o passo 2_
 
 <div>
     <img src="./assets/linux/python-version.png">
@@ -143,7 +143,7 @@ python3 --version
     <img src="assets/windows/content-recovery-win.png">
 </div>
 
-4. _Open the `recovery_urls.txt` file_
+4. _Abrir o arquivo `recovery_urls.txt`_
 
 <div>
     <img src="./assets/windows/URLs-win.png">
