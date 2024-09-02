@@ -86,7 +86,7 @@ python --version
 python3 --version
 ```
 
-- _Se retornar algo como `python 3.x.x`, o python já está instalado, podemos ir para o passo 1_
+- _Se retornar algo como `python 3.x.x`, o python já está instalado, podemos ir para o passo 2_
 
 <div>
     <img src="./assets/linux/python-version.png">
