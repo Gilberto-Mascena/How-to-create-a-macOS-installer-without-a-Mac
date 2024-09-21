@@ -11,7 +11,7 @@
 
 
 > [!WARNING]
-> _Avoid images distributed on the internet_
+> _Avoid images distributed on the internet._
 > _This process will not use a full macOS image, but rather a recovery image. It will download everything from Apple's servers that will be used to install macOS on your PC/Notebook._ 
 
 #### _Requirements:_
