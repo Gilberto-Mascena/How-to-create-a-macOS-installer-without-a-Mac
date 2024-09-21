@@ -10,7 +10,7 @@
 ### _Bem, isso é relativamente fácil, graças ao bom trabalho do [Time Acidanthera](https://github.com/acidanthera/OpenCorePkg) com macrecovery_
 
 > [!NOTE]
-> _Evite imagens distribuídas na internet_
+> _Evite imagens distribuídas na internet._
 > _Este processo não usará uma imagem completa do macOS, mas sim uma imagem de recovery. Ele baixará tudo dos servidores da Apple que será usado para instalar o macOS no seu PC/Notebook_
 
 #### _Requisitos:_
