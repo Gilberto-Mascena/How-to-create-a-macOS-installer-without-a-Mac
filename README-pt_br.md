@@ -152,7 +152,7 @@ python3 --version
 
 5. _Conforme destacado no título acima, a seção em vermelho baixa a recuperação do macOS Ventura, apenas copiar. O mesmo vale para outras versões._
 
-6. _Abra um terminal na pasta macrecovery e digite `python3`, pressione espaço e cole a url copiada. Pressione Enter e aguarde_
+6. _Abra um terminal na pasta macrecovery e digite `python`, pressione espaço e cole a url copiada. Pressione Enter e aguarde_
 
 <div>
     <img src="./assets/windows/download macos-win.png">
