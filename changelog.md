@@ -1,3 +1,3 @@
 _**Changes in this Version**_
 
-- _First release_  
+- _Updated macrecovery folder of OpenCore 1.0.2_ 🚀  
