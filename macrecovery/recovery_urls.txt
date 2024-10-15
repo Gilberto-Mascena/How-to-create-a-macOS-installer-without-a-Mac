@@ -37,8 +37,8 @@ macrecovery.py -b Mac-E43C1C25D4880AD6 -m 00000000000000000 download
 Ventura
 macrecovery.py -b Mac-B4831CEBD52A0C4C -m 00000000000000000 download
 
-Latest version
-macrecovery.py -b Mac-7BA5B2D9E42DDD94 -m 00000000000000000 -os latest download
+Sonoma
+macrecovery.py -b Mac-827FAC58A8FDFA22 -m 00000000000000000
 
 Diagnostics
 ./macrecovery.py -b Mac-7BA5B2D9E42DDD94 -m 00000000000000000 -diag
@@ -49,4 +49,6 @@ Default version
 ./macrecovery.py -b Mac-7BA5B2D9E42DDD94 -m 00000000000JG3600       (oldest)
 ./macrecovery.py -b Mac-7BA5B2D9E42DDD94 -m <real MLB> -os default  (newer)
 
+Latest version
+macrecovery.py -b Mac-7BA5B2D9E42DDD94 -m 00000000000000000 -os latest download
 ./macrecovery.py -b Mac-7BA5B2D9E42DDD94 -m <real MLB> -os latest
