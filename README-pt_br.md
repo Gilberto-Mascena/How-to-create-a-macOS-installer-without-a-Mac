@@ -267,7 +267,7 @@ python3 --version
 - [*Dortania*](https://dortania.github.io/OpenCore-Install-Guide/config.plist/comet-lake.html#platforminfo)
 - [*Dicas do Mateus*](https://www.youtube.com/c/DicasdoMateus)
 - [*Gabriel Luchina*](https://www.youtube.com/c/gabrielluchina)
-- *And others*
+- *E outros*
 
 [Top](#ancora)
 </details>
