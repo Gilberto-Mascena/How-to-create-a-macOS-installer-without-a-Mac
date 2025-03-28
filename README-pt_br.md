@@ -45,7 +45,7 @@
 
 <a id="ancora1"></a>
 
-<details><summary><h4>No Windows</h4></summary>
+<details><summary><h4>No Windows 👀</h4></summary>
 
 - _Ao instalar no **Windows** marque a opcão `Add Python to PATH`_
 
@@ -70,7 +70,7 @@ python --version
 
 <a id="ancora2"></a>
 
-<details><summary><h4>No Linux</h4></summary>
+<details><summary><h4>No Linux 👀</h4></summary>
 
 - _No **Linux**, o Ubuntu por exemplo, geralmente vem com o Python instalado, então verifique primeiro se você o tem instalado_
 
@@ -134,7 +134,7 @@ python3 --version
 
 <a id="ancora3"></a>
 
-<details><summary><h4>No Windows</h4></summary>
+<details><summary><h4>No Windows 👀</h4></summary>
 
 1. [_Baixar o macrecovery_](https://github.com/Gilberto-Mascena/How-to-create-a-macOS-installer-without-a-Mac/releases)
 2. _Formatar a unidade flash USB em FAT32_
@@ -198,7 +198,7 @@ python3 --version
 
 <a id="ancora4"></a>
 
-<details><summary><h4>No Linux</h4></summary>
+<details><summary><h4>No Linux 👀</h4></summary>
 
 1. [_Baixar o macrecovery_](https://github.com/Gilberto-Mascena/How-to-create-a-macOS-installer-without-a-Mac/releases)
 2. _Formatar a unidade flash USB em FAT32_

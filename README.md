@@ -47,7 +47,7 @@
 
 <a id="anchor1"></a>
 
-<details><summary><h4>On Windows</h4></summary>
+<details><summary><h4>On Windows 👀</h4></summary>
 
 - _when installing on **Windows** check `Add Python to PATH`_
 
@@ -74,7 +74,7 @@ python --version
 
 <a id="anchor2"></a>
 
-<details><summary><h4>On Linux</h4></summary>
+<details><summary><h4>On Linux 👀</h4></summary>
 
 - _On **Linux**, Ubuntu for example, usually comes with Python installed, so check first if you have it installed._  
 
@@ -132,7 +132,7 @@ python3 --version
 
 <a id="anchor3"></a>
 
-<details><summary><h4>On Windows</h4></summary>
+<details><summary><h4>On Windows 👀</h4></summary>
 
 1. [_Download macrecovery_](https://github.com/Gilberto-Mascena/How-to-create-a-macOS-installer-without-a-Mac/releases)
 2. _Format the USB flash drive in FAT32_
@@ -194,7 +194,7 @@ python3 --version
 
 <a id="anchor4"></a>
 
-<details><summary><h4>On Linux</h4></summary>
+<details><summary><h4>On Linux 👀</h4></summary>
 
 1. [_Download macrecovery_](https://github.com/Gilberto-Mascena/How-to-create-a-macOS-installer-without-a-Mac/releases)
 2. _Format the USB flash drive in FAT32_
