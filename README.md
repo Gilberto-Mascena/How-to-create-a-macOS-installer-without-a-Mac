@@ -69,8 +69,8 @@
 - _Checking the installation:_
     - _On **Windows**, open a prompt or terminal and run the command below_
 
-```
-python --version
+```bash
+python --version #Check the installed python version
 ```
 - _If it returns something like `python 3.x.x`, the installation was successful and we can go to step 2_
 
@@ -90,13 +90,13 @@ python --version
     - _Checking the installation:_
         - _On **Linux** open a terminal and run the command below_
 
-```
-python --version
+```bash
+python --version # Check the installed python version
 ```
 #### _Or_
 
-```
-python3 --version
+```bash
+python3 --version # Check the installed python version
 ```
 - _If it returns something like `python 3.x.x`, the python is already installed, we can go to step 2_
 
@@ -106,24 +106,24 @@ python3 --version
 
 - _Otherwise, for **Debian** and derivatives, in the terminal run the command below_
 
-```
-sudo apt update && sudo apt upgrade -y
+```bash
+sudo apt update && sudo apt upgrade -y # Updates the package list and installs all available updates without asking for confirmation.
 ```
 
 - _Enter the user password to update the packages and update the system, once the process is complete, run the command below_
 
-```
-sudo apt install python3 -y
+```bash
+sudo apt install python3 -y # Installs Python 3 on your system automatically, without asking for confirmation.
 ```
 - _Enter the user password for installation, after completion close the terminal and open it again. Finally verify the installation by running the command below again_
 
-```
-python --version
+```bash
+python --version # Check the installed python version
 ```
 #### _Or_
 
-```
-python3 --version
+```bash
+python3 --version # Check the installed python version
 ```
 
 - _If it returns something like `python 3.x.x`, the python is already installed, we can go to step 2_
