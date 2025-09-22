@@ -38,7 +38,7 @@ Ventura
 macrecovery.py -b Mac-B4831CEBD52A0C4C -m 00000000000000000 download
 
 Sonoma
-macrecovery.py -b Mac-827FAC58A8FDFA22 -m 00000000000000000
+macrecovery.py -b Mac-827FAC58A8FDFA22 -m 00000000000000000 download
 
 Diagnostics
 ./macrecovery.py -b Mac-7BA5B2D9E42DDD94 -m 00000000000000000 -diag
@@ -49,6 +49,6 @@ Default version
 ./macrecovery.py -b Mac-7BA5B2D9E42DDD94 -m 00000000000JG3600       (oldest)
 ./macrecovery.py -b Mac-7BA5B2D9E42DDD94 -m <real MLB> -os default  (newer)
 
-Latest version
+Latest version Tahoe
 macrecovery.py -b Mac-7BA5B2D9E42DDD94 -m 00000000000000000 -os latest download
 ./macrecovery.py -b Mac-7BA5B2D9E42DDD94 -m <real MLB> -os latest
