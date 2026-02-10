@@ -11,7 +11,7 @@
 ![Tamanho do Repositório](https://img.shields.io/github/repo-size/Gilberto-Mascena/How-to-create-a-macOS-installer-without-a-Mac?style=for-the-badge)
 
 # _How to create a genuine macOS installer without access to a Mac?_
-
+### __Creating a macOS installer using Apple recovery on a Windows or Linux PC/Laptop, for installation on Hackintosh__
 <div align="center">
     <img src="./assets/miscellany/macOS-recovery.png" width="150">
 </div>
